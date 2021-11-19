@@ -1,4 +1,4 @@
-# PNI
+# UT3 A2
 1. ¿Qué niveles OSI son los niveles de soporte de red? 
 
 El nivel 1 (físico), el nivel 2 (enlace), y nivel 3 (red).
